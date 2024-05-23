@@ -5,4 +5,10 @@
 --> It was developed by GOOGLE.
 --> In 2010 , the npm [NODE PACKAGE MANAGER] introduced , which made it easy for developers and reude of code.
 
-2.
+2.JSON data types :
+--> string
+--> boolean
+--> number
+--> array
+--> object
+--> null
